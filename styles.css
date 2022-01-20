@@ -1,0 +1,13 @@
+.myclass {
+    color: rgb(101, 114, 44)
+}
+
+.mybutton {
+    background-color: chartreuse;
+    size: 100mm;
+}
+
+.mycounter {
+    size: 500px;
+    font-size: 100px;
+}
